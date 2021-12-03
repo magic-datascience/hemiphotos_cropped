@@ -58,7 +58,7 @@ BH02_50Center.JPG,0,nan,nan,nan,nan,nan,
 BH02_60A.JPG,0,nan,nan,nan,nan,nan,
 BH02_60B.JPG,1,nan,1241,1665,1330,1736,6319
 BH02_60Center.JPG,0,nan,nan,nan,nan,nan,
-BH02_70A.JPG,1,nan,1086,1580,?,?,
+BH02_70A.JPG,1,nan,1086,1580,1360,1925,94530
 BH02_70B.JPG,1,nan,1186,1681,1365,1864,32757
 BH02_70Center.JPG,1,nan,1124,1686,1220,1780,9024
 BH02_80A.JPG,0,nan,nan,nan,nan,nan,
@@ -66,7 +66,7 @@ BH02_80B.JPG,0,nan,nan,nan,nan,nan,
 BH02_80Center.JPG,0,nan,nan,nan,nan,nan,
 BH02_90A.JPG,1,nan,1097,1689,1298,1881,38592
 BH02_90B.JPG,0,nan,nan,nan,nan,nan,
-BH02_90Center.JPG,1,nan,?,?,?,?,
+BH02_90Center.JPG,1,nan,1117,1618,1427,1853,72850
 BH02_Open.JPG,0,nan,nan,nan,nan,nan,
 BH02_Out.JPG,0,nan,nan,nan,nan,nan,
 BM03_00A.JPG,0,nan,nan,nan,nan,nan,
@@ -161,7 +161,7 @@ HF05_50A.JPG,0,nan,nan,nan,nan,nan,
 HF05_50B.JPG,1,nan,785,1820,975,2011,36290
 HF05_50Center.JPG,0,nan,nan,nan,nan,nan,
 HF05_60A.JPG,0,nan,nan,nan,nan,nan,
-HF05_60B.JPG,1,nan,nan,nan,nan,nan,
+HF05_60B.JPG,1,nan,806,1781,852,1829,2208
 HF05_60Center.JPG,0,nan,nan,nan,nan,nan,
 HF05_70A.JPG,1,?,763,1665,815,1713,2496
 HF05_70B.JPG,0,nan,nan,nan,nan,nan,
@@ -186,7 +186,7 @@ HF06_10Center.JPG,0,nan,nan,nan,nan,nan,
 HF06_20A.JPG,0,nan,nan,nan,nan,nan,
 HF06_20B.JPG,1,nan,1763,1510,1992,1737,51983
 HF06_20Center.JPG,1,nan,1829,1452,2035,1624,35432
-HF06_30A.JPG,1,nan,nan,nan,nan,nan,
+HF06_30A.JPG,1,nan,777,788,975,1001,42174
 HF06_30B.JPG,1,nan,1787,1600,1901,1715,13110
 HF06_30Center.JPG,0,nan,nan,nan,nan,nan,
 HF06_40A.JPG,1,nan,1886,1380,1981,1451,6745
